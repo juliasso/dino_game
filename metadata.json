@@ -1,0 +1,5 @@
+{
+  "name": "Dino Run Retro",
+  "description": "A classic 2D infinite runner game featuring a jumping dinosaur, obstacle avoidance, and high-score tracking.",
+  "requestFramePermissions": []
+}
